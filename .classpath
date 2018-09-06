@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/client-combined-3.4.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/cssparser-0.9.22.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/gimap.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/htmlunit-2.26.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/htmlunit-core-js-2.26.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/htmlunit-driver-2.26.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/imap.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/jansi-1.16.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/java-client-5.0.0-BETA9.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/javax.mail-1.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/log4j-color-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/mail.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/neko-htmlunit-2.25.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/osgi-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/slf4j-ext-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/slf4j-migrator-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/websocket-api-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/websocket-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/websocket-common-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/FDBE/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Setup/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

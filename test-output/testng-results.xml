@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-09-06T05:17:12Z" name="SELENIUM TEST" finished-at="2018-09-06T05:17:42Z" duration-ms="30609">
+    <groups>
+    </groups>
+    <test started-at="2018-09-06T05:17:12Z" name="Single page test" finished-at="2018-09-06T05:17:42Z" duration-ms="30609">
+      <class name="spectos.com.test.SinglePage_Test">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:spectos.com.test.SinglePage_Test@76b1e9b8]" started-at="2018-09-06T05:17:12Z" name="beforeClass" finished-at="2018-09-06T05:17:15Z" duration-ms="3568" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="testcase_1(java.util.HashMap)[pri:0, instance:spectos.com.test.SinglePage_Test@76b1e9b8]" started-at="2018-09-06T05:17:16Z" name="testcase_1" data-provider="testcase1" finished-at="2018-09-06T05:17:27Z" duration-ms="11257" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{=, msg=Thanks for your feedback!, q2=No comment., q5_1=Everything is terrible., ID=1, q7_1=Hoang Thanh Thao, q7_2=121456, msgGetLocation=Retrieved your location successfully., q7_3=1138, q7_4=8/9/18}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_1 -->
+        <test-method signature="testcase_2(java.util.HashMap)[pri:0, instance:spectos.com.test.SinglePage_Test@76b1e9b8]" started-at="2018-09-06T05:17:27Z" name="testcase_2" data-provider="testcase2" finished-at="2018-09-06T05:17:34Z" duration-ms="6830" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{required_msg_q1_3=Please answer this required question!, ID=1, required_msg_q8=Please fill out required fields}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_2 -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:spectos.com.test.SinglePage_Test@76b1e9b8]" started-at="2018-09-06T05:17:34Z" name="afterClass" finished-at="2018-09-06T05:17:42Z" duration-ms="8677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- spectos.com.test.SinglePage_Test -->
+    </test> <!-- Single page test -->
+  </suite> <!-- SELENIUM TEST -->
+</testng-results>

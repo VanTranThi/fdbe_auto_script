@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SELENIUM TEST" thread-count="2">
+	<test name="Single page test">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="spectos.com.test.SinglePage_Test" />
+		</classes>
+	</test>
+</suite>

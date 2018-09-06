@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [Failed suite [SELENIUM TEST]]" guice-stage="DEVELOPMENT">
+  <test thread-count="2" name="Single page test(failed)(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="spectos.com.test.SinglePage_Test">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="testcase_2" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- spectos.com.test.SinglePage_Test -->
+    </classes>
+  </test> <!-- Single page test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [SELENIUM TEST]] -->
